@@ -1,64 +1,64 @@
 <div align="center">
   <br>
-  <a href="https://zenithfivem.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://r2.fivemanage.com/xm6joUUSlUjI3K1Qfndbd/logo-wordmark-600x200.png" width="400" alt="Zenith Logo">
-  </a>
+  <img src="https://r2.fivemanage.com/xm6joUUSlUjI3K1Qfndbd/logo-wordmark-600x200.png" width="380" alt="Zenith">
 
-# Zenith Framework
+  <br>
+  <br>
 
-A modern, open-source roleplay framework for FiveM. Built on the ox ecosystem.
+**A modern roleplay framework for FiveM.**
+Lightweight. Modular. Built on ox.
 
-[Homepage](https://zenithfivem.dev) •
-[Documentation](https://docs.zenithfivem.dev) •
-[Discord](https://discord.zenithfivem.dev)
+  <br>
 
-### [_Join our community!_](https://discord.zenithfivem.dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.zenithfivem.dev)
+[![Docs](https://img.shields.io/badge/Docs-24292e?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.zenithfivem.dev)
+[![Website](https://img.shields.io/badge/Website-0b7285?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://zenithfivem.dev)
+[![License](https://img.shields.io/badge/License-GPL--3.0-a2eeef?style=flat-square)](https://github.com/Zenith-FiveM/zenith/blob/main/LICENSE)
 
   <br>
 </div>
 
 ---
 
-### About the Project
+<div align="center">
 
-Zenith is a modern roleplay **framework** for FiveM, designed from the ground up to be **modular**, **developer-first**, and **easy to build on**. Rather than reinventing the wheel, Zenith is built on top of the **ox ecosystem** (`ox_lib`, `oxmysql`, `ox_inventory`, `ox_target`) so it stays lightweight, interoperable, and familiar to modern FiveM developers.
+### Why Zenith?
 
-**Optimisation** and **code quality** come first. Zenith ships a clean core — player and character management, economy, jobs, metadata, and permissions — with well-documented exports and events so other resources can target it the way they target existing frameworks.
+Most frameworks make you choose between **bloat** and **building everything yourself**.
 
-Zenith also provides a **compatibility bridge** for existing QBCore/ESX resources, so you can adopt it without leaving your current ecosystem behind.
+Zenith doesn't. It ships a clean, opinionated core — characters, economy, jobs, metadata, permissions — and nothing you didn't ask for. It runs on the **ox ecosystem** you already know, exposes **documented exports and events**, and drops in beside your existing QBCore/ESX resources through a **compatibility bridge**.
+
+Adopt it gradually. Break nothing.
+
+<br>
+</div>
+
+<div align="center">
+
+|                     |                                                              |
+| :------------------ | :----------------------------------------------------------- |
+| ⚡ **Lean core**    | Characters, economy, jobs, metadata, permissions — no filler |
+| 🧩 **Modular**      | Enable what you need, extend what you want                   |
+| 🔌 **ox-native**    | `ox_lib` · `oxmysql` · `ox_inventory` · `ox_target`          |
+| 🌉 **Bridge-ready** | Run QBCore/ESX resources without a rewrite                   |
+| 📖 **Documented**   | Clean API, real guides, from day one                         |
+| 🆓 **Open-source**  | GPL-3.0, forever                                             |
+
+</div>
 
 <br>
 
-## Directory
+---
 
-- 🔭 [Zenith Core](https://github.com/Zenith-FiveM/zenith) — the framework core
-- 🌉 [Zenith Bridge](https://github.com/Zenith-FiveM/zenith-bridge) — QBCore/ESX compatibility layer
-- 📚 [Documentation Source](https://github.com/Zenith-FiveM/zenith-docs) — docs site source
+<div align="center">
 
-- ❓ Need support? Visit our [Discord](https://discord.zenithfivem.dev) or the [Documentation](https://docs.zenithfivem.dev)!
+### Repositories
 
-<br>
-
-## Features
-
-- ⚡ **Modern core** — multi-character, economy, jobs, metadata, and permissions out of the box
-- 🧩 **Modular by design** — enable what you need, extend what you want
-- 🔌 **ox-native** — built on `ox_lib`, `oxmysql`, and friends
-- 🌉 **Bridge included** — drop-in compatibility for QBCore/ESX resources
-- 📖 **Documented** — clean exports, events, and guides from day one
-- 🆓 **Free & open-source** — GPL-3.0 licensed
+**[Core](https://github.com/Zenith-FiveM/zenith)** &nbsp;·&nbsp; **[Bridge](https://github.com/Zenith-FiveM/zenith-bridge)** &nbsp;·&nbsp; **[Docs](https://github.com/Zenith-FiveM/zenith-docs)**
 
 <br>
 
-## Our Socials!
+Questions? **[Join the Discord →](https://discord.zenithfivem.dev)**
 
-<a href="https://github.com/Zenith-FiveM" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.zenithfivem.dev" target="_blank">
-    <img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;" />
-</a>
-<a href="https://zenithfivem.dev" target="_blank">
-    <img src="https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="website" style="margin-bottom: 5px;" />
-</a>
-<br />
+<br>
+</div>
