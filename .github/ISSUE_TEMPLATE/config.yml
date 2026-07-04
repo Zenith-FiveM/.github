@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord Community
+    url: https://discord.zenithfivem.dev
+    about: For general questions, support, and discussion, join our Discord.
+  - name: Documentation
+    url: https://docs.zenithfivem.dev
+    about: Check the docs before opening an issue — your question may already be answered.
