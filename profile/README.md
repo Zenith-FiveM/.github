@@ -54,7 +54,7 @@ Adopt it gradually. Break nothing.
 
 ### Repositories
 
-**[Core](https://github.com/Zenith-FiveM/zenith)** &nbsp;·&nbsp; **[Bridge](https://github.com/Zenith-FiveM/zenith-bridge)** &nbsp;·&nbsp; **[Docs](https://github.com/Zenith-FiveM/zenith-docs)**
+**[Framework](https://github.com/Zenith-FiveM/zenith)** &nbsp;·&nbsp; **[Documentation](https://github.com/Zenith-FiveM/documentation)**
 
 <br>
 
